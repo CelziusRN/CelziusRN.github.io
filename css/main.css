@@ -62,12 +62,12 @@ body, html {
 }
 
 .pimg2 {
-    background-image: url(../images/cover2.png);
+    background-image: url(../images/cover3.png);
     min-height: 600px;    
 }
 
 .pimg3 {
-    background-image: url(../images/cover3.png);
+    background-image: url(../images/cover2.png);
     min-height: 600px;    
 }
 
